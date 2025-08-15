@@ -60,14 +60,14 @@
     "@types/better-sqlite3": "^7.6.13",
     "@types/chalk": "^0.4.31",
     "@types/chokidar": "^1.7.5",
-    "@types/commander": "^2.12.0",
+    "@types/commander": "^2.12.5",
     "@types/fs-extra": "^11.0.4",
     "@types/minimatch": "^5.1.2",
     "@types/node": "^24.2.1",
     "jsonwebtoken": "^9.0.2",
     "qrcode": "^1.5.4",
     "speakeasy": "^2.0.0",
-    "typescript": "^5.7.2"
+    "typescript": "^5.9.2"
   },
   "dependencies": {
     "@xenova/transformers": "^2.17.2",
@@ -77,13 +77,13 @@
     "commander": "^14.0.0",
     "dotenv": "^17.2.1",
     "fflate": "^0.8.2",
-    "fs-extra": "^11.3.0",
+    "fs-extra": "^11.3.1",
     "minimatch": "^10.0.3",
     "sqlite-vss": "^0.1.2",
-    "tree-sitter": "^0.21.1",
-    "tree-sitter-javascript": "^0.21.4",
-    "tree-sitter-python": "^0.21.0",
-    "tree-sitter-typescript": "^0.21.2"
+    "tree-sitter": "^0.25.0",
+    "tree-sitter-javascript": "^0.23.1",
+    "tree-sitter-python": "^0.23.6",
+    "tree-sitter-typescript": "^0.23.2"
   },
   "overrides": {
     "@npmcli/fs": "^3.1.1",
